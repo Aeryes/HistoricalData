@@ -1,0 +1,31 @@
+Results File:
+Total Count of Trading Days: 253
+
+The amount of days SPY increased on Monday in the last year: 141
+The amount of days SPY decreased on Monday in the last year: 111
+The amount of days SPY didnt change on Monday in the last year: 1
+The percentage of days SPY increased on Monday in the last year: 55.73%
+The percentage of days SPY decreased on Monday in the last year: 43.87%
+The percentage of days SPY didnt change on Monday in the last year: 0.40%
+
+Total Count of Trading Days where Thurday High was higher than Fridays High: 113
+
+The amount of days where SPY increased on Monday if Friday failed to break Thursdays highs?: 84
+The amount of days where SPY decreased on Monday if Friday failed to break Thursdays highs?: 28
+The amount of days where SPY didnt change on Monday if Friday failed to break Thursdays highs?: 1
+The percentage of days where SPY increased on Monday if Friday failed to break Thursdays highs?: 74.34%
+The percentage of days where SPY decreased on Monday if Friday failed to break Thursdays highs?: 24.78%
+The percentage of days where SPY didnt change on Monday if Friday failed to break Thursdays highs?: 0.88%
+The amount of days where SPY had a greater than 50 cent increase on Monday if Friday failed to break Thursdays highs?: 82
+The percentage of days where SPY a greater than 50 cent increase on Monday if Friday failed to break Thursdays highs?: 74.55%
+The amount of days where SPY had a greater than 50 cent decrease on Monday if Friday failed to break Thursdays highs?: 28
+The percentage of days where SPY a greater than 50 cent decrease on Monday if Friday failed to break Thursdays highs?: 25.45%
+
+Total Count of Trading Days where Thurday High was lower than Fridays High: 141
+
+The amount of days where SPY increased on Monday if Friday was higher than Thursdays highs?: 57
+The amount of days where SPY decreased on Monday if Friday was higher than Thursdays highs?: 83
+The amount of days where SPY didnt change on Monday if Friday was higher than Thursdays highs?: 0
+The percentage of days where SPY increased on Monday if Friday was higher Thursdays highs?: 40.43%
+The percentage of days where SPY decreased on Monday if Friday was higher than Thursdays highs?: 58.87%
+The percentage of days where SPY didnt change on Monday if Friday was higher than Thursdays highs?: 0.00%
